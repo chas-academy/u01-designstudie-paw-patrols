@@ -1,6 +1,6 @@
 Anteckningar
-18-09-2024
 
+18-09-2024
 bestämmer för att ha möte på skolan imorron
 
 19-09-2024
@@ -37,4 +37,4 @@ Vi valde 5 intervjufrågor som Elias har lagt ut intervjufrågor via google form
 Elias gör lite ändringar på formuläret. Gruppen gick igenom logotyper som Josefine har gjort, nr 5 var favoriten.
 
 03-10-2024
-Efter vi pratade med Ludvig. Började med template för personas och user stories. Josefine lägger upp mötesanteckningar på github. Elias gör om frågorna.
+Efter vi pratade med Ludvig. Började med template för personas och user stories. Josefine lägger upp mötesanteckningar på github. Elias gör om frågorna. Lägger ut på slack.

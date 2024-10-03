@@ -1,0 +1,48 @@
+version 2
+Vad är din ålder?
+Vad är det första du letar efter när du besöker en webbplats för hundpromenadtjänst?
+Använder du webbplatser för att boka hundpromenadtjänster? Om ja, vad gillar du med dem?
+Vilken typ av webbdesign föredrar du: enkel och minimal, eller något med mer grafik och detaljer?
+Föredrar du att ha ett eget konto på webbplatsen eller en “boka direkt” funktion?
+Vill du se bilder eller filmer på hundpromenaderna och hundarna på hemsidan?
+Skulle du använda filter för att sortera tjänster som plats eller tillgänglighet?
+Skulle du använda en "boka nu"-knapp på hemsidan eller föredrar du att surfa först?
+Hur viktigt är det att realtidsuppdateringar under promenaden (t.ex. start/slut, bilder)  och kommunicera med hundrastaren? Skulle en GPS funktion för att 
+Vill du ha detaljerade profiler av hundrastare och är recensioner av hundrastare viktiga?
+Vilka funktioner skulle du vilja ha på en perfekt hundpromenad webbplats?
+Finns det något du ogillar med andra webbplatser som vi bör undvika?
+Skulle du använda ett community forum på webbplatsen för hundägare för att dela erfarenheter?
+Skulle du överväga en prenumerationsmodell för vanliga hundpromenadtjänster? Vilka funktioner skulle göra det tilltalande?
+Vad skulle få dig att känna dig säker på att boka en hundrastare via en webbplats?
+
+
+
+
+Frågeställning:
+Vad heter du och hur gammal är du?
+hur många hundar har du?
+Vad har du för slags hund/hundar?
+hur ofta behöver hundarna rastning?
+Hur ofta är du vid behov av att någon måste rasta din hund/hundar?
+är de någon extra tjänst som du är intresserad av? Som kloklippning, träning, matning osv.
+vad förväntar du av en hundrastare?
+Hur mycket skulle du betala för en hundrastning för en dag?
+
+Obs! Börja med att presentera vår tjänst och webbplats.
+
+_______________________
+
+bokar mer än 1 hund?
+intersserad av att boka för helger/kväll
+vill du kunna boka online?
+vad är det viktigaste när du ska boka rastning?
+
+How often do you use or see yourself getting help with pet sitting?
+What device you usually use for book your pet sitter?
+Are you aware that paw patrols offer grooming at home as well?
+what are the most important factors for you when you will hire a pet sitter?
+What would prevent you from booking us as your pet sitter?
+
+
+
+
