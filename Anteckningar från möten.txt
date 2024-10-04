@@ -37,4 +37,4 @@ Vi valde 5 intervjufrågor som Elias har lagt ut intervjufrågor via google form
 Elias gör lite ändringar på formuläret. Gruppen gick igenom logotyper som Josefine har gjort, nr 5 var favoriten.
 
 03-10-2024
-Efter vi pratade med Ludvig. Började med template för personas och user stories. Josefine lägger upp mötesanteckningar på github. Elias gör om frågorna. Lägger ut på slack.
+Efter vi pratade med Ludvig. Började med template för personas och user stories. Josefine lägger upp mötesanteckningar på github. Elias gör om frågorna. Efter lunch kom de in tillräckligt med svar från formuläret för att kunna göra personas och user stories från svaren. Utifrån svaren kommer vi behöva göra om landningssidor
