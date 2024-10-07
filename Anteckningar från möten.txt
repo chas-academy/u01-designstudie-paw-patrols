@@ -37,4 +37,9 @@ Vi valde 5 intervjufrågor som Elias har lagt ut intervjufrågor via google form
 Elias gör lite ändringar på formuläret. Gruppen gick igenom logotyper som Josefine har gjort, nr 5 var favoriten.
 
 03-10-2024
-Efter vi pratade med Ludvig. Började med template för personas och user stories. Josefine lägger upp mötesanteckningar på github. Elias gör om frågorna. Efter lunch kom de in tillräckligt med svar från formuläret för att kunna göra personas och user stories från svaren. Utifrån svaren kommer vi behöva göra om landningssidor
+Efter vi pratade med Ludvig. Började med template för personas och user stories. Josefine lägger upp mötesanteckningar på github. Elias gör om frågorna. Efter lunch kom de in tillräckligt med svar från formuläret för att kunna göra personas och user stories från svaren. Utifrån svaren kommer vi behöva göra om landningssidor.
+
+07-10-2024
+Nu har vi fått in 10 svar från formuläret samt är personas och user stories är fullständiga. Vi behöver lägga till registera/log in.Vi pratade om hur vi skulle göra log in/registera och vart vi ska göra low fidelity papper/figma/paint.
+
+Planen är att mötet på onsdag tänkte hur vi ska göra om sidorna och hur flödet ska se ut, och sedan på torsdag när vi är på skolan går vi igenom det så att vi är klara med low fidelity den här veckan.
