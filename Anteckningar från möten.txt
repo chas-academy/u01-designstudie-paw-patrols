@@ -43,3 +43,21 @@ Efter vi pratade med Ludvig. Började med template för personas och user storie
 Nu har vi fått in 10 svar från formuläret samt är personas och user stories är fullständiga. Vi behöver lägga till registera/log in.Vi pratade om hur vi skulle göra log in/registera och vart vi ska göra low fidelity papper/figma/paint.
 
 Planen är att mötet på onsdag tänkte hur vi ska göra om sidorna och hur flödet ska se ut, och sedan på torsdag när vi är på skolan går vi igenom det så att vi är klara med low fidelity den här veckan.
+
+09-10.2024
+landningssidor
+om oss _ Sarvnaz
+
+startsida + omdöme _ Elias
+
+log in/ reg _ josefine
+priser _ Josefine 
+
+Bookning _ Elias
+
+vanliga frågor/ FAQ _ Sarvnaz 
+
+symbol se att man är inloggad
+nav klicka för att se meny
+
+plan gå igenom/arbeta med low fidelity prototyp imorgon på skolan. Om tid välja med design val till high fidelity ex färger och font.
