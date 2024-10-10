@@ -61,3 +61,9 @@ symbol se att man är inloggad
 nav klicka för att se meny
 
 plan gå igenom/arbeta med low fidelity prototyp imorgon på skolan. Om tid välja med design val till high fidelity ex färger och font.
+
+10-10-2024
+Lägger in low fidelity på grupp figma i page 2.Valt fons och färg.Gjorts navigeringsbar för mobil och desktop, då skapas dom till mallar för desktop och mobil.
+
+Skapas en pages 3 där high fidelity mallar finns och sedan lägga in prototyper.
+Börjar med High Fidelity Prototyper.
