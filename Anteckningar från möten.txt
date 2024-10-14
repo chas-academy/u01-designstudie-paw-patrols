@@ -67,3 +67,6 @@ Lägger in low fidelity på grupp figma i page 2.Valt fons och färg.Gjorts navi
 
 Skapas en pages 3 där high fidelity mallar finns och sedan lägga in prototyper.
 Börjar med High Fidelity Prototyper.
+
+14-10-2024
+Planen är att vi ska vara klara med high fidelity sidorna till på torsdag(16/10), då vi är på skolan så att man kan klicka mellan sidorna och öppna menyn på mobilversionen.
